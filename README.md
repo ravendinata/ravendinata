@@ -2,7 +2,7 @@
           
 <h1 align="center">Hi there! 👋 こんにちは!</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=My%20name%20is%20Raven%20Limadinata!&fontSize=48&desc=You%20can%20call%20me%20Raven!%20「レイヴン」って呼んでください!&descAlign=50&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=My%20name%20is%20Raven%20Limadinata!&fontSize=48&desc=You%20can%20call%20me%20Raven!%20「レイヴン」と呼んでください!&descAlign=50&animation=fadeIn">
 </p>
 
 <p align="center">
