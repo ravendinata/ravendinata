@@ -71,20 +71,43 @@
 
 <h2 align="center">Human Language</h2>
 <p align="center">
-  🇮🇩 Indonesian (Native) | 🇬🇧 English (Native-like) | 🇲🇾 Malay (Native-like) | 🇯🇵 Japanese (Business Proficiency)<br>
+  🇮🇩 Indonesian (Native) | 🇬🇧 English (Native-like)<br>
+  🇲🇾 Malay (Native-like) | 🇯🇵 Japanese (Business Proficiency)<br>
   🇰🇷 Korean (Minimal) | 🇨🇳 Mandarin (Minimal)
 </p>
 
-<p align="center">Visit my website for more information:<br>
-詳しくは私のウェブサイトをご覧ください:<br>
-<a href="https://ravenlimadinata.com">ravenlimadinata.com</a></p>
+<h2 align="center">Connect with Me</h2>
+<p align="center">
+  <span>
+    <a href="https://linkedin.com/in/ravenlimadinata"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/ravendinata"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.instagram.com/raven.dinata/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    <a href="https://twitter.com/skyrin_9"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a><br>
+    <a href="https://www.facebook.com/ravenlimadinata28"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+    <a href="https://open.spotify.com/user/8weapspjahtoigo33j2q6i98f?si=z55cYORlQEuv-qv6iDyeMw"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="https://steamcommunity.com/id/skyrin9"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
+  </span>
+</p>
+
+<p align="center">
+  Visit my website for more information:<br>
+  詳しくは私のウェブサイトをご覧ください:<br>
+  <a href="https://ravenlimadinata.com">ravenlimadinata.com</a>
+</p>
+
+<hr>
 
 <h2 align="center">My GitHub Statistics</h2>
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravendinata&theme=discord_old_blurple"><br>
-<span><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravendinata&theme=discord_old_blurple">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravendinata&theme=discord_old_blurple"></span><br>
-<span><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravendinata&theme=discord_old_blurple&utcOffset=8">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravendinata&theme=discord_old_blurple"></span>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravendinata&theme=discord_old_blurple"><br>
+  <span>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravendinata&theme=discord_old_blurple">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravendinata&theme=discord_old_blurple">
+  </span><br>
+  <span>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravendinata&theme=discord_old_blurple&utcOffset=8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravendinata&theme=discord_old_blurple">
+  </span>
 </p>
 
 <!--
