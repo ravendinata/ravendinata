@@ -97,6 +97,15 @@
 
 <hr>
 
+<h2 align="center">What am I listening to</h2>
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=8weapspjahtoigo33j2q6i98f&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=8weapspjahtoigo33j2q6i98f&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
+
+<hr>
+
 <h2 align="center">My GitHub Statistics</h2>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravendinata&theme=discord_old_blurple"><br>
