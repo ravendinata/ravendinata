@@ -7,7 +7,7 @@
 
 <p align="center">
   I am a Software Engineering graduate currently working in the education sector as a Research and Development officer.<br>
-  私はソフトウェア工学を専攻し、現在は教育分野で研究開発担当として働いています。
+  僕はソフトウェア工学を専攻し、現在は教育分野で研究開発担当として働いています。
 </p>
 
 <p align="center">
